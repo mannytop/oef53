@@ -8,5 +8,20 @@ namespace oef53
         {
             Console.WriteLine("Hello World!");
         }
+
+        static void Jasper()
+        {
+
+        }
+
+        static void Brmvnmol()
+        {
+
+        }
+
+        static void Johnny()
+        {
+
+        }
     }
 }
